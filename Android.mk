@@ -24,7 +24,6 @@ LOCAL_AAPT_FLAGS := \
     --extra-packages android.support.v7.cardview
 
 LOCAL_PACKAGE_NAME := Eleven
-LOCAL_OVERRIDES_PACKAGES := Music
 
 LOCAL_PROGUARD_FLAGS := -include $(LOCAL_PATH)/proguard.cfg
 ifeq ($(TARGET_BUILD_VARIANT),user)
