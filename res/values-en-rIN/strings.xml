@@ -45,7 +45,7 @@
   <string name="menu_clear_recents">Clear recent</string>
   <string name="menu_clear_queue">Clear queue</string>
   <string name="menu_save_queue">Save queue</string>
-  <string name="menu_equalizer">Equaliser</string>
+  <string name="menu_equalizer">Equalizer</string>
   <string name="add_to_playlist">Add to playlist</string>
   <string name="add_to_queue">Add to queue</string>
   <string name="remove_from_recent">Remove from recent</string>
@@ -126,11 +126,11 @@
   <string name="app_widget_large">Music: 4 \u00d7 2</string>
   <string name="app_widget_large_alt">Music: 4 \u00d7 2 (alternate)</string>
   <string name="app_widget_recent">Music: recently listened</string>
-  <string name="no_effects_for_you">The equaliser could not be opened.</string>
+  <string name="no_effects_for_you">The equalizer could not be opened.</string>
   <string name="empty_music">To copy music from your computer to your device, use a USB cable.</string>
   <string name="empty_search">No search results found</string>
   <string name="empty_search_check">Please check that you have the correct spelling or try a different keyword.</string>
-  <string name="empty_favorite">Songs you mark as favourites will be shown here.</string>
+  <string name="empty_favorite">Songs you mark as favorites will be shown here.</string>
   <string name="empty_recent_main">No recent songs</string>
   <string name="empty_recent">Songs you have listened to recently will show up here.</string>
   <string name="empty_playlist_main">No songs in playlist</string>
